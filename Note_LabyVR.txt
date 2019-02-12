@@ -7,7 +7,7 @@ Salle :
 -Throwing Challenge : lancer des balles dans un panier
 -Lever Challenge : En rentrant dans la salle, il y a plusieurs leviers devant nous et des conduits d'eau en face. Tirer sur un levier entraine la fermeture/ouverture de une ou plusieurs valves.
 -Find the Button Challenge : Dans une salle rempli d'objets random, trouver le boutton.
--Dark Challenge : Dans le noir complet, trouver <?>.
+-Dark Challenge : Dans le noir complet avec plein d'objet, trouver l enigme et l objet <?>.
 -Takin Challenge : takin sur la porte de sortie, le resoudre ouvre la porte
 -Bad Guy Challenge : Se battre contre un boss.
 
