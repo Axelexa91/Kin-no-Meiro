@@ -1,0 +1,49 @@
+Labyrinthe :
+-Pieges : spikes, dogs, big axes, arrows, crouch, rolling stones
+-Inventaire (optionnel)
+-Walking (No Teleportation)
+
+Salle :
+-Throwing Challenge : lancer des balles dans un panier
+-Lever Challenge : En rentrant dans la salle, il y a plusieurs leviers devant nous et des conduits d'eau en face. Tirer sur un levier entraine la fermeture/ouverture de une ou plusieurs valves.
+-Find the Button Challenge : Dans une salle rempli d'objets random, trouver le boutton.
+-Dark Challenge : Dans le noir complet, trouver <?>.
+-Takin Challenge : takin sur la porte de sortie, le resoudre ouvre la porte
+-Bad Guy Challenge : Se battre contre un boss.
+
+Taches :
+-Modelisation :
+	Piege :
+		spikes
+		dalle
+		dalle troue
+		balancier de hache
+		fleches
+		lanceur de fleche
+		rocher qui roule
+		Chiens
+		Scie qui bouge dans les murs qui avancent
+
+
+	Obstacles :
+		Portes
+		Cles
+		Barils
+		Caisse
+		(Murs qui bougent)
+		
+	Objets : 
+		Levier
+		Boutton
+		Poignee de porte
+		Tuyau transparent
+		Valve (ouverture/fermeture bien visible)
+		Balles
+		Panier
+		Lampe-torche
+		Boss
+		Epee
+		Bouclier
+		Takin
+
+-Plan du labyrinthe
