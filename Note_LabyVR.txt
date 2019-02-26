@@ -17,32 +17,32 @@ Taches :
 		spikes
 		dalle
 		dalle troue
-		balancier de hache
-		fleches
+		balancier de hache (THAI MAYBE DONE ?)
+		fleches (THAI DONE)
 		lanceur de fleche
 		rocher qui roule
-		Chiens
+		Chiens (THAI DONE)
 		Scie qui bouge dans les murs qui avancent
 
 
 	Obstacles :
 		Portes
 		Cles
-		Barils
-		Caisse
+		Barils (THAI DONE)
+		Caisse (THAI DONE)
 		(Murs qui bougent)
 		
 	Objets : 
 		Levier
 		Boutton
-		Poignee de porte
-		Tuyau transparent
-		Valve (ouverture/fermeture bien visible)
+		Poignee de porte (THAI DONE)
+		Tuyau transparent (THAI DONE)
+		Valve (ouverture/fermeture bien visible) (THAI DONE)
 		Balles
-		Panier
-		Lampe-torche
+		Panier (THAI DONE)
+		Lampe-torche (THAI DONE)
 		Boss
-		Epee
+		Epee (THAI DONE)
 		Bouclier
 		Takin
 
