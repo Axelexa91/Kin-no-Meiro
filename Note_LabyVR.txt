@@ -27,7 +27,7 @@ Taches :
 
 	Obstacles :
 		Portes
-		Cles
+		Cles (THAI DONE)
 		Barils (THAI DONE)
 		Caisse (THAI DONE)
 		(Murs qui bougent)
@@ -38,12 +38,11 @@ Taches :
 		Poignee de porte (THAI DONE)
 		Tuyau transparent (THAI DONE)
 		Valve (ouverture/fermeture bien visible) (THAI DONE)
-		Balles
+		Balles (THAI DONE)
 		Panier (THAI DONE)
 		Lampe-torche (THAI DONE)
 		Boss
 		Epee (THAI DONE)
-		Bouclier
-		Takin
+		Bouclier (THAI DONE)
 
 -Plan du labyrinthe
