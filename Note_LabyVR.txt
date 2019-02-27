@@ -17,8 +17,8 @@ Taches :
 		spikes
 		dalle
 		dalle troue
-		balancier de hache
-		fleches
+		balancier de hache 
+		fleches (THAI DONE)
 		lanceur de fleche
 		rocher qui roule
 		Chiens
@@ -33,17 +33,17 @@ Taches :
 		(Murs qui bougent)
 		
 	Objets : 
-		Levier
-		Boutton
-		Poignee de porte
+		Levier (a faire)
+		Boutton (BURAK EN COURS)
+		Poignee de porte (THAI DONE)
 		Tuyau transparent
 		Valve (ouverture/fermeture bien visible)
 		Balles
-		Panier
+		Panier (THAI DONE)
 		Lampe-torche
 		Boss
 		Epee
 		Bouclier
 		Takin
 
--Plan du labyrinthe
+-Plan du labyrinthe (MODELISATION EN COURS)
